@@ -9,7 +9,7 @@ public class OperatorExample
 {
     public static void main(String[]arg)
     {
-        int a=10;
+        int a=30;
         int b=10;
         System.out.println(++a);
         System.out.println(a++);
